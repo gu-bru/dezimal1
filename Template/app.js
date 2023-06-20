@@ -10,7 +10,7 @@
         streamingAssetsUrl: "StreamingAssets",
         companyName: "G. Brunbauer",
         productName: "Dezimal1",
-        productVersion: "1.16 vom 20.6.2023",
+        productVersion: "1.17 vom 20.6.2023",
     };
 
 
